@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/*
+*.pyc
+AdjustHome/__pycache__
+AdjustHome/__pycache__/*
+db.sqlite3
+.idea/
+.envname/
+envname

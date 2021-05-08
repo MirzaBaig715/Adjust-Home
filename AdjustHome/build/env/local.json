@@ -1,0 +1,18 @@
+{
+  "DEBUG": "True",
+  "SECRET_KEY": "e=%52(gf@h(f0=l+%-1w6f(($*1^+qftns(vj4_d$5e!)nr_ct",
+  "ALLOWED_HOSTS": [
+    "*"
+  ],
+  "DATABASE": {
+    "NAME": "postgres",
+    "USER": "postgres",
+    "PASSWORD": "postgres",
+    "HOST": "db",
+    "PORT": "5432"
+  },
+  "SITE_URL": "http://127.0.0.1:8000/",
+  "MEDIA_URL": "'/media/'",
+  "STATIC_URL": "'/static/'"
+}
+
